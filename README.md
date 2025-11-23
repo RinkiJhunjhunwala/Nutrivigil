@@ -21,9 +21,9 @@
 ---
 
 <div align="center">
-  <img src="https://i.postimg.cc/GpTdqbfH/nutrivigil-food-analysis.png" width="45%" alt="Food Analysis View"/>
+  <img src="https://image2url.com/images/1763887204703-5c90a51a-5fec-45a3-b6ce-c25e7acba923.png" width="45%" alt="Food Analysis View"/>
   &nbsp;
-  <img src="https://i.postimg.cc/SKRGpNZS/nutrivigil-trafficlights.png" width="45%" alt="Traffic Light Decision System"/>
+  <img src="https://image2url.com/images/1763887449739-167e9658-ae5c-4223-beec-ed112f5ae824.png" width="45%" alt="Traffic Light Decision System"/>
 </div>
 
 ---
